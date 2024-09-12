@@ -1,0 +1,12 @@
+$mainbg: #ff9cff;
+$div1bg: rgba(102, 228, 196, 0.7);
+body{
+  background: $mainbg !important;
+}
+.main-heading{
+  max-width: 70% !important;
+background: $div1bg;
+  text-align: center;
+  margin-top: 2rem;
+  padding: 2rem 1rem;
+}
